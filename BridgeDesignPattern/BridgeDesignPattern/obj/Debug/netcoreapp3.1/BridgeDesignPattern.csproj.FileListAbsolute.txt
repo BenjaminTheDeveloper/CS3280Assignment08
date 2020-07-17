@@ -1,0 +1,13 @@
+C:\Users\Stu\Desktop\CS3280_A8\CS3280Assignment08\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.exe
+C:\Users\Stu\Desktop\CS3280_A8\CS3280Assignment08\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.deps.json
+C:\Users\Stu\Desktop\CS3280_A8\CS3280Assignment08\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.json
+C:\Users\Stu\Desktop\CS3280_A8\CS3280Assignment08\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.runtimeconfig.dev.json
+C:\Users\Stu\Desktop\CS3280_A8\CS3280Assignment08\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+C:\Users\Stu\Desktop\CS3280_A8\CS3280Assignment08\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
+C:\Users\Stu\Desktop\CS3280_A8\CS3280Assignment08\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.csprojAssemblyReference.cache
+C:\Users\Stu\Desktop\CS3280_A8\CS3280Assignment08\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Stu\Desktop\CS3280_A8\CS3280Assignment08\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.AssemblyInfo.cs
+C:\Users\Stu\Desktop\CS3280_A8\CS3280Assignment08\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Stu\Desktop\CS3280_A8\CS3280Assignment08\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.dll
+C:\Users\Stu\Desktop\CS3280_A8\CS3280Assignment08\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.pdb
+C:\Users\Stu\Desktop\CS3280_A8\CS3280Assignment08\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp3.1\BridgeDesignPattern.genruntimeconfig.cache
