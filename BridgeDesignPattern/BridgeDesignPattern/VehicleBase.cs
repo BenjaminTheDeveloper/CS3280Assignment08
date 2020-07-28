@@ -7,7 +7,7 @@ namespace BridgeDesignPattern
     /// <summary>
     /// This is the 'Abstraction' Class
     /// </summary>
-    class VehicleBase
+    public class VehicleBase
     {
         private VehicleDataObject _vehicleDataObject;
         protected string selection;
@@ -58,5 +58,11 @@ namespace BridgeDesignPattern
             _vehicleDataObject.ShowAllRecords();
         }
 
+        public virtual string GetCount()
+        {
+
+                return _vehicleDataObject.VehicleCount(); 
+            
+        }
     }
 }

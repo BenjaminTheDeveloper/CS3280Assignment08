@@ -8,7 +8,7 @@ namespace BridgeDesignPattern
     /// Implementor Abstract Class 
     /// This will be implemented into the VehicleData Class 
     /// </summary>
-    abstract class VehicleDataObject
+   public abstract class VehicleDataObject
     {
 
         public abstract void NextRecord();
@@ -20,6 +20,8 @@ namespace BridgeDesignPattern
         public abstract void ShowRecord();
 
         public abstract void ShowAllRecords();
+
+        public abstract string VehicleCount(); 
     }
 
 }

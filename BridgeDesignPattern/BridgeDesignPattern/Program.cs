@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace BridgeDesignPattern
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -22,10 +22,11 @@ namespace BridgeDesignPattern
             vehicles.Next();
             vehicles.Show();
             vehicles.ShowAll();
-
+            Console.WriteLine("Vehicle Count: " +vehicles.GetCount());
             Console.WriteLine("After adding vehicle");
 
             vehicles.Add("Ford F150");
+            Console.WriteLine("Vehicle Count: " + vehicles.GetCount());
             vehicles.ShowAll(); 
 
 

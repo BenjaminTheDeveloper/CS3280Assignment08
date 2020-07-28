@@ -8,7 +8,7 @@ namespace BridgeDesignPattern
     /// <summary>
     /// This is the 'ConcreteImplementor' Class
     /// </summary>
-    class VehicleData : VehicleDataObject
+    public class VehicleData : VehicleDataObject
     {
         private List<string> _vehicles = new List<string>();
         private int _current = 0;
@@ -69,6 +69,11 @@ namespace BridgeDesignPattern
             {
                 Console.WriteLine("Vehicle Make and Model: " + vehicleName);
             }
+        }
+
+        public override string VehicleCount()
+        {
+            return _vehicles.Count.ToString();
         }
     }
 }

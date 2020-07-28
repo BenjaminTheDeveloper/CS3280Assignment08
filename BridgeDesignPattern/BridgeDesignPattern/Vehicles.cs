@@ -7,7 +7,7 @@ namespace BridgeDesignPattern
     /// <summary>
     /// This is the 'RefinedAbstraction' class
     /// </summary>
-    class Vehicles : VehicleBase
+       public class Vehicles : VehicleBase
     {
 
         //Constructor
