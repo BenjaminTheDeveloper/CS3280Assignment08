@@ -64,5 +64,10 @@ namespace BridgeDesignPattern
                 return _vehicleDataObject.VehicleCount(); 
             
         }
+
+        public virtual string GetSelection()
+        {
+            return this.selection; 
+        }
     }
 }

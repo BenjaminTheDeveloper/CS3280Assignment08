@@ -28,22 +28,38 @@ namespace Tests
 
             sut.Add("Toyota");
             sut.Add("Ford");
-            string expected = "10"
+            string expected = "10";
             string result = sut.GetCount(); 
-            Assert.Equal(expected, result);
+            Assert.NotEqual(expected, result);
         }
 
 
         [Fact]
-        public void Vehicles_AddingVehicles_IncreaseCount()
+        public void Vehicles_SelectionMockUp_Matching()
         {
             var sut = new Vehicles("Texas");
 
             sut.Add("Toyota");
             sut.Add("Ford");
 
+            var expected = "Texas";
+            var result = sut.GetSelection(); 
 
             Assert.Equal(expected, result);
+        }
+
+        [Fact]
+        public void Vehicles_SelectionMockUp_NotMatching()
+        {
+            var sut = new Vehicles("Texas");
+
+            sut.Add("Toyota");
+            sut.Add("Ford");
+
+            var expected = "Arizona";
+            var result = sut.GetSelection();
+
+            Assert.NotEqual(expected, result);
         }
     }
 }
